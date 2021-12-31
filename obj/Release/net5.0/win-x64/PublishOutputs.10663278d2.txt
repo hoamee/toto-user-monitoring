@@ -1,0 +1,7 @@
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/toto-monitoring.pdb
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/clrcompression.dll
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/clrjit.dll
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/coreclr.dll
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/mscordaccore.dll
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/sni.dll
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Release/net5.0/win-x64/publish/toto-monitoring.exe

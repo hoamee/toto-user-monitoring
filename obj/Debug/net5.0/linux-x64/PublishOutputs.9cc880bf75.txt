@@ -1,0 +1,2 @@
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Debug/net5.0/linux-x64/publish/toto-monitoring.pdb
+/Users/lethanhhieu/Visual-studio/toto-monitoring/bin/Debug/net5.0/linux-x64/publish/toto-monitoring
